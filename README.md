@@ -1,7 +1,7 @@
 # News-Articles-Classification
 New Articles with 4 different categories-Text Classification problem-NaiveBayes-LogR using TFIDF and Doc2Vec
 
-Dataset with 4 classes of news articles with headline and content.
+Dataset with 4 classes(1,2,3,4) of news articles with headline and content.
 
 Training Set: 120k 
 Testing Set: 7.6k
