@@ -8,3 +8,9 @@ Testing Set: 7.6k
 
 Any text classification dataset can be plugged in and this script will work with minimal changes.
 
+Algorithms used:
+
+TFIDF + Naive Bayes
+TFIDF + LogR
+Doc2Vec(pretrained) + Naive Bayes
+Doc2Vec(pretrained) + LogR
